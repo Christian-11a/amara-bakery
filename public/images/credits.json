@@ -1,0 +1,12 @@
+{
+  "source": "OpenAI built-in image generation",
+  "purpose": "Original synthetic photography for the fictional Amara Bakery portfolio demo",
+  "date": "2026-10-03",
+  "disclosure": "These images illustrate fictional products and are not photographs of a real bakery.",
+  "refinement_assets": [
+    { "file": "hero-v2.png", "prompt": "Photorealistic editorial bakery photography, warm morning daylight, oat cream linen, honey wood, soft espresso shadows. Wide 3:2 composition with rustic golden sourdough and flaky croissants on the right, softly blurred cream plaster and linen on the left for text, sunlit window and ceramic pitcher behind. No text or logos." },
+    { "file": "baking-flour.png", "prompt": "Photorealistic editorial bakery photography, warm morning daylight, oat cream linen, honey wood. Landscape 3:2 close-up of ceramic flour bowl, wooden scoop, scattered flour and wheat stalks on an oak worktable. No finished bread, hands, text or logos." },
+    { "file": "baking-dough.png", "prompt": "Photorealistic editorial bakery photography, warm morning daylight, oat cream linen, honey wood. Landscape 3:2 close-up of two natural hands kneading soft bread dough on a floured oak worktable, linen apron blurred behind. Anatomically correct hands, tactile dough, no finished bread, text or logos." },
+    { "file": "baking-oven.png", "prompt": "Photorealistic editorial bakery photography, warm amber light. Landscape 3:2 close-up of golden bread rolls on a metal tray inside a traditional bakery oven viewed from its doorway. Crisp golden tops, realistic oven interior, no hands, flames, text or logos." }
+  ]
+}

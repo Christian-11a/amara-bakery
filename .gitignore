@@ -1,0 +1,33 @@
+node_modules/
+.npm-cache/
+.next/
+.next-preview/
+.next-build/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Generated framework files and tooling output
+next-env.d.ts
+coverage/
+.turbo/
+.vercel/
+*.log
+
+# Local agent, editor, and operating-system files
+.hallmark/
+.agents/
+.codex/
+AGENTS.md
+CLAUDE.md
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Superseded design assets; the current hero is hero-v2.png
+public/images/hero.png
+docs/screenshots/header.png
